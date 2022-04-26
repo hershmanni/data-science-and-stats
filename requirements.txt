@@ -7,6 +7,7 @@ matplotlib == 3.2.1
 pandas == 1.0.4
 pillow == 9.1.0
 plotly == 5.7.0
+google.colab == 1.0.0
 
 # I can leave a comment
 ### Does this get to your fork?
